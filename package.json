@@ -81,7 +81,7 @@
     "@types/node-fetch": "2.5.10",
     "@types/prompts": "2.0.12",
     "@types/semver": "7.3.6",
-    "@types/validate-npm-package-name": "3.0.2",
+    "@types/validate-npm-package-name": "3.0.3",
     "copyfiles": "2.4.1",
     "husky": "6.0.0",
     "jest": "27.0.3",
