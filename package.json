@@ -80,7 +80,7 @@
     "@types/node": "15.6.1",
     "@types/node-fetch": "2.5.10",
     "@types/prompts": "2.0.12",
-    "@types/semver": "7.3.6",
+    "@types/semver": "7.3.7",
     "@types/validate-npm-package-name": "3.0.2",
     "copyfiles": "2.4.1",
     "husky": "6.0.0",
