@@ -83,7 +83,7 @@
     "@types/semver": "7.3.7",
     "@types/validate-npm-package-name": "3.0.3",
     "copyfiles": "2.4.1",
-    "husky": "7.0.1",
+    "husky": "7.0.4",
     "jest": "27.0.6",
     "lint-staged": "11.1.0",
     "rimraf": "3.0.2",
